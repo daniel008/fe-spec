@@ -160,7 +160,7 @@ importers:
         specifier: ^0.25.1
         version: 0.25.1
       markdownlint-config-encode:
-        specifier: ^1.1.0
+        specifier: ^1.0.8
         version: link:../markdownlint-config
       markdownlint-rule-helpers:
         specifier: ^0.13.0
